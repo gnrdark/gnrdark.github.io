@@ -1,2 +1,2 @@
-# SHOUBI-DZ.github.io
+# gnrdark.github.io
 DARK server homepage
