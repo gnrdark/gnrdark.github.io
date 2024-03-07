@@ -1,2 +1,2 @@
-# gnrdark.github.io
-website for Franco
+# SHOUBI-DZ.github.io
+DZRV server homepage
