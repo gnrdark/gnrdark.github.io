@@ -1,2 +1,2 @@
 # SHOUBI-DZ.github.io
-DZRV server homepage
+DARK server homepage
